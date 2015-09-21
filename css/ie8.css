@@ -1,0 +1,56 @@
+p {
+    color: #000;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+    line-height: 24px;
+    font-size: 14px;
+}
+
+#main_navs ul {
+    width: inherit;
+}
+
+#logo img {
+    width: 80%;
+}
+
+.container {
+    width: 1200px;
+}
+
+.col-md-1,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7 {
+    float: left;
+}
+
+.col-md-7 {
+    width: 58.33333333%;
+}
+
+.download-app {
+    height: 595px;
+}
+
+.download-app,
+.code-pc {
+    background-position: none;
+    background-repeat: repeat-x;
+}
+
+.navbar-header {
+    display: none;
+}
+
+.collapse {
+    display: block;
+}
+
+#main_navs li {
+    width: 70px;
+    display: inline-block;
+}
